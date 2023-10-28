@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Sridevi Peddireddy, a passionate software developer with expertise in Python and full-stack web development.
+I'm Sridevi Peddireddy, a passionate software developer in Python full-stack web development.
 
 ## Skills
 
